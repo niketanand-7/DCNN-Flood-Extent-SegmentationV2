@@ -1,0 +1,6 @@
+tensorflow==2.13
+numpy
+pandas
+opencv-python
+tqdm
+scikit-learn
